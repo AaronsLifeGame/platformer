@@ -2,7 +2,7 @@
 <p>
 	<h3>Hero Back</h3>
 <br>
-	![hero-back-attack](sprites/hero/short/back/attack/hero.gif "Hero Back Attack")
+![hero-back-attack](sprites/hero/short/back/attack/hero.gif "Hero Back Attack")
 	![hero-back-damaged](sprites/hero/short/back/damaged/hero.gif "Hero Back Damaged")
 	![hero-back-dead](sprites/hero/short/back/dead/hero.gif "Hero Back Dead")
 <br>
