@@ -1,6 +1,6 @@
-Hero Sprites
+% Hero Sprites
 
-Hero Back
+# Hero Back
 
 ![hero-back-attack](sprites/hero/short/back/attack/hero.gif "Hero Back Attack")
 ![hero-back-damaged](sprites/hero/short/back/damaged/hero.gif "Hero Back Damaged")
@@ -9,7 +9,7 @@ Hero Back
 ![hero-back-jump](sprites/hero/short/back/jump/hero.gif "Hero Back Jump")
 ![hero-back-walk](sprites/hero/short/back/walk/hero.gif "Hero Back Walk")
 
-Hero Down
+## Hero Down
 
 ![hero-down-attack](sprites/hero/short/down/attack/hero.gif "Hero Down Attack")
 ![hero-down-damaged](sprites/hero/short/down/damaged/hero.gif "Hero Down Damaged")
@@ -18,7 +18,7 @@ Hero Down
 ![hero-down-jump](sprites/hero/short/down/jump/hero.gif "Hero Down Jump")
 ![hero-down-walk](sprites/hero/short/down/walk/hero.gif "Hero Down Walk")
 
-Hero Front
+### Hero Front
 
 ![hero-front-attack](sprites/hero/short/front/attack/hero.gif "Hero Front Attack")
 ![hero-front-damaged](sprites/hero/short/front/damaged/hero.gif "Hero Front Damaged")
@@ -27,7 +27,7 @@ Hero Front
 ![hero-front-jump](sprites/hero/short/front/jump/hero.gif "Hero Front Jump")
 ![hero-front-walk](sprites/hero/short/front/walk/hero.gif "Hero Front Walk")
 
-Hero Side
+#### Hero Side
 
 ![hero-side-attack](sprites/hero/short/side/attack/hero.gif "Hero Side Attack")
 ![hero-side-damaged](sprites/hero/short/side/damaged/hero.gif "Hero Side Damaged")
@@ -36,7 +36,7 @@ Hero Side
 ![hero-side-jump](sprites/hero/short/side/jump/hero.gif "Hero Side Jump")
 ![hero-side-walk](sprites/hero/short/side/walk/hero.gif "Hero Side Walk")
 
-Hero Up
+##### Hero Up
 
 ![hero-up-attack](sprites/hero/short/up/attack/hero.gif "Hero Up Attack")
 ![hero-up-damaged](sprites/hero/short/up/damaged/hero.gif "Hero Up Damaged")
