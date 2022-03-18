@@ -1,105 +1,111 @@
 # Sprites
 
-contents:
- - links
- - here
- - to
- - each
- - ##
+##### Table of Contents  
+[Short Novice](#short novice) 
+[Tall Novice](#tall novice) 
+[Short Archer](#short archer)
+[Tall Archer](#tall archer) 
+[Short Warrior](#short warrior) 
+[Tall Warrior](#tall warrior) 
+[Short Mage](#short mage) 
+[Tall Mage](#tall mage) 
+...snip...    
+<a name="headers"/>
+## Headers
 
-## Short Hero Sprites
+## Short novice Sprites
 
-Hero Back
+novice Back
 
-![hero-back-attack](sprites/hero/short/back/attack/hero.gif "Hero Back Attack")
-![hero-back-damaged](sprites/hero/short/back/damaged/hero.gif "Hero Back Damaged")
-![hero-back-dead](sprites/hero/short/back/dead/hero.gif "Hero Back Dead")
-![hero-back-idle](sprites/hero/short/back/idle/hero.gif "Hero Back Idle")
-![hero-back-jump](sprites/hero/short/back/jump/hero.gif "Hero Back Jump")
-![hero-back-walk](sprites/hero/short/back/walk/hero.gif "Hero Back Walk")
+![novice-back-attack](sprites/novice/short/back/attack/novice.gif "novice Back Attack")
+![novice-back-damaged](sprites/novice/short/back/damaged/novice.gif "novice Back Damaged")
+![novice-back-dead](sprites/novice/short/back/dead/novice.gif "novice Back Dead")
+![novice-back-idle](sprites/novice/short/back/idle/novice.gif "novice Back Idle")
+![novice-back-jump](sprites/novice/short/back/jump/novice.gif "novice Back Jump")
+![novice-back-walk](sprites/novice/short/back/walk/novice.gif "novice Back Walk")
 
-Hero Down
+novice Down
 
-![hero-down-attack](sprites/hero/short/down/attack/hero.gif "Hero Down Attack")
-![hero-down-damaged](sprites/hero/short/down/damaged/hero.gif "Hero Down Damaged")
-![hero-down-dead](sprites/hero/short/down/dead/hero.gif "Hero Down Dead")
-![hero-down-idle](sprites/hero/short/down/idle/hero.gif "Hero Down Idle")
-![hero-down-jump](sprites/hero/short/down/jump/hero.gif "Hero Down Jump")
-![hero-down-walk](sprites/hero/short/down/walk/hero.gif "Hero Down Walk")
+![novice-down-attack](sprites/novice/short/down/attack/novice.gif "novice Down Attack")
+![novice-down-damaged](sprites/novice/short/down/damaged/novice.gif "novice Down Damaged")
+![novice-down-dead](sprites/novice/short/down/dead/novice.gif "novice Down Dead")
+![novice-down-idle](sprites/novice/short/down/idle/novice.gif "novice Down Idle")
+![novice-down-jump](sprites/novice/short/down/jump/novice.gif "novice Down Jump")
+![novice-down-walk](sprites/novice/short/down/walk/novice.gif "novice Down Walk")
 
-Hero Front
+novice Front
 
-![hero-front-attack](sprites/hero/short/front/attack/hero.gif "Hero Front Attack")
-![hero-front-damaged](sprites/hero/short/front/damaged/hero.gif "Hero Front Damaged")
-![hero-front-dead](sprites/hero/short/front/dead/hero.gif "Hero Front Dead")
-![hero-front-idle](sprites/hero/short/front/idle/hero.gif "Hero Front Idle")
-![hero-front-jump](sprites/hero/short/front/jump/hero.gif "Hero Front Jump")
-![hero-front-walk](sprites/hero/short/front/walk/hero.gif "Hero Front Walk")
+![novice-front-attack](sprites/novice/short/front/attack/novice.gif "novice Front Attack")
+![novice-front-damaged](sprites/novice/short/front/damaged/novice.gif "novice Front Damaged")
+![novice-front-dead](sprites/novice/short/front/dead/novice.gif "novice Front Dead")
+![novice-front-idle](sprites/novice/short/front/idle/novice.gif "novice Front Idle")
+![novice-front-jump](sprites/novice/short/front/jump/novice.gif "novice Front Jump")
+![novice-front-walk](sprites/novice/short/front/walk/novice.gif "novice Front Walk")
 
-Hero Side
+novice Side
 
-![hero-side-attack](sprites/hero/short/side/attack/hero.gif "Hero Side Attack")
-![hero-side-damaged](sprites/hero/short/side/damaged/hero.gif "Hero Side Damaged")
-![hero-side-dead](sprites/hero/short/side/dead/hero.gif "Hero Side Dead")
-![hero-side-idle](sprites/hero/short/side/idle/hero.gif "Hero Side Idle")
-![hero-side-jump](sprites/hero/short/side/jump/hero.gif "Hero Side Jump")
-![hero-side-walk](sprites/hero/short/side/walk/hero.gif "Hero Side Walk")
+![novice-side-attack](sprites/novice/short/side/attack/novice.gif "novice Side Attack")
+![novice-side-damaged](sprites/novice/short/side/damaged/novice.gif "novice Side Damaged")
+![novice-side-dead](sprites/novice/short/side/dead/novice.gif "novice Side Dead")
+![novice-side-idle](sprites/novice/short/side/idle/novice.gif "novice Side Idle")
+![novice-side-jump](sprites/novice/short/side/jump/novice.gif "novice Side Jump")
+![novice-side-walk](sprites/novice/short/side/walk/novice.gif "novice Side Walk")
 
-Hero Up
+novice Up
 
-![hero-up-attack](sprites/hero/short/up/attack/hero.gif "Hero Up Attack")
-![hero-up-damaged](sprites/hero/short/up/damaged/hero.gif "Hero Up Damaged")
-![hero-up-dead](sprites/hero/short/up/dead/hero.gif "Hero Up Dead")
-![hero-up-idle](sprites/hero/short/up/idle/hero.gif "Hero Up Idle")
-![hero-up-jump](sprites/hero/short/up/jump/hero.gif "Hero Up Jump")
-![hero-up-walk](sprites/hero/short/up/walk/hero.gif "Hero Up Walk")
+![novice-up-attack](sprites/novice/short/up/attack/novice.gif "novice Up Attack")
+![novice-up-damaged](sprites/novice/short/up/damaged/novice.gif "novice Up Damaged")
+![novice-up-dead](sprites/novice/short/up/dead/novice.gif "novice Up Dead")
+![novice-up-idle](sprites/novice/short/up/idle/novice.gif "novice Up Idle")
+![novice-up-jump](sprites/novice/short/up/jump/novice.gif "novice Up Jump")
+![novice-up-walk](sprites/novice/short/up/walk/novice.gif "novice Up Walk")
 
-## tall Hero Sprites
+## tall novice Sprites
 
-Hero Back
+novice Back
 
-![hero-back-attack](sprites/hero/tall/back/attack/hero.gif "Hero Back Attack")
-![hero-back-damaged](sprites/hero/tall/back/damaged/hero.gif "Hero Back Damaged")
-![hero-back-dead](sprites/hero/tall/back/dead/hero.gif "Hero Back Dead")
-![hero-back-idle](sprites/hero/tall/back/idle/hero.gif "Hero Back Idle")
-![hero-back-jump](sprites/hero/tall/back/jump/hero.gif "Hero Back Jump")
-![hero-back-walk](sprites/hero/tall/back/walk/hero.gif "Hero Back Walk")
+![novice-back-attack](sprites/novice/tall/back/attack/novice.gif "novice Back Attack")
+![novice-back-damaged](sprites/novice/tall/back/damaged/novice.gif "novice Back Damaged")
+![novice-back-dead](sprites/novice/tall/back/dead/novice.gif "novice Back Dead")
+![novice-back-idle](sprites/novice/tall/back/idle/novice.gif "novice Back Idle")
+![novice-back-jump](sprites/novice/tall/back/jump/novice.gif "novice Back Jump")
+![novice-back-walk](sprites/novice/tall/back/walk/novice.gif "novice Back Walk")
 
-Hero Down
+novice Down
 
-![hero-down-attack](sprites/hero/tall/down/attack/hero.gif "Hero Down Attack")
-![hero-down-damaged](sprites/hero/tall/down/damaged/hero.gif "Hero Down Damaged")
-![hero-down-dead](sprites/hero/tall/down/dead/hero.gif "Hero Down Dead")
-![hero-down-idle](sprites/hero/tall/down/idle/hero.gif "Hero Down Idle")
-![hero-down-jump](sprites/hero/tall/down/jump/hero.gif "Hero Down Jump")
-![hero-down-walk](sprites/hero/tall/down/walk/hero.gif "Hero Down Walk")
+![novice-down-attack](sprites/novice/tall/down/attack/novice.gif "novice Down Attack")
+![novice-down-damaged](sprites/novice/tall/down/damaged/novice.gif "novice Down Damaged")
+![novice-down-dead](sprites/novice/tall/down/dead/novice.gif "novice Down Dead")
+![novice-down-idle](sprites/novice/tall/down/idle/novice.gif "novice Down Idle")
+![novice-down-jump](sprites/novice/tall/down/jump/novice.gif "novice Down Jump")
+![novice-down-walk](sprites/novice/tall/down/walk/novice.gif "novice Down Walk")
 
-Hero Front
+novice Front
 
-![hero-front-attack](sprites/hero/tall/front/attack/hero.gif "Hero Front Attack")
-![hero-front-damaged](sprites/hero/tall/front/damaged/hero.gif "Hero Front Damaged")
-![hero-front-dead](sprites/hero/tall/front/dead/hero.gif "Hero Front Dead")
-![hero-front-idle](sprites/hero/tall/front/idle/hero.gif "Hero Front Idle")
-![hero-front-jump](sprites/hero/tall/front/jump/hero.gif "Hero Front Jump")
-![hero-front-walk](sprites/hero/tall/front/walk/hero.gif "Hero Front Walk")
+![novice-front-attack](sprites/novice/tall/front/attack/novice.gif "novice Front Attack")
+![novice-front-damaged](sprites/novice/tall/front/damaged/novice.gif "novice Front Damaged")
+![novice-front-dead](sprites/novice/tall/front/dead/novice.gif "novice Front Dead")
+![novice-front-idle](sprites/novice/tall/front/idle/novice.gif "novice Front Idle")
+![novice-front-jump](sprites/novice/tall/front/jump/novice.gif "novice Front Jump")
+![novice-front-walk](sprites/novice/tall/front/walk/novice.gif "novice Front Walk")
 
-Hero Side
+novice Side
 
-![hero-side-attack](sprites/hero/tall/side/attack/hero.gif "Hero Side Attack")
-![hero-side-damaged](sprites/hero/tall/side/damaged/hero.gif "Hero Side Damaged")
-![hero-side-dead](sprites/hero/tall/side/dead/hero.gif "Hero Side Dead")
-![hero-side-idle](sprites/hero/tall/side/idle/hero.gif "Hero Side Idle")
-![hero-side-jump](sprites/hero/tall/side/jump/hero.gif "Hero Side Jump")
-![hero-side-walk](sprites/hero/tall/side/walk/hero.gif "Hero Side Walk")
+![novice-side-attack](sprites/novice/tall/side/attack/novice.gif "novice Side Attack")
+![novice-side-damaged](sprites/novice/tall/side/damaged/novice.gif "novice Side Damaged")
+![novice-side-dead](sprites/novice/tall/side/dead/novice.gif "novice Side Dead")
+![novice-side-idle](sprites/novice/tall/side/idle/novice.gif "novice Side Idle")
+![novice-side-jump](sprites/novice/tall/side/jump/novice.gif "novice Side Jump")
+![novice-side-walk](sprites/novice/tall/side/walk/novice.gif "novice Side Walk")
 
-Hero Up
+novice Up
 
-![hero-up-attack](sprites/hero/tall/up/attack/hero.gif "Hero Up Attack")
-![hero-up-damaged](sprites/hero/tall/up/damaged/hero.gif "Hero Up Damaged")
-![hero-up-dead](sprites/hero/tall/up/dead/hero.gif "Hero Up Dead")
-![hero-up-idle](sprites/hero/tall/up/idle/hero.gif "Hero Up Idle")
-![hero-up-jump](sprites/hero/tall/up/jump/hero.gif "Hero Up Jump")
-![hero-up-walk](sprites/hero/tall/up/walk/hero.gif "Hero Up Walk")
+![novice-up-attack](sprites/novice/tall/up/attack/novice.gif "novice Up Attack")
+![novice-up-damaged](sprites/novice/tall/up/damaged/novice.gif "novice Up Damaged")
+![novice-up-dead](sprites/novice/tall/up/dead/novice.gif "novice Up Dead")
+![novice-up-idle](sprites/novice/tall/up/idle/novice.gif "novice Up Idle")
+![novice-up-jump](sprites/novice/tall/up/jump/novice.gif "novice Up Jump")
+![novice-up-walk](sprites/novice/tall/up/walk/novice.gif "novice Up Walk")
 
 ## Short archer Sprites
 
@@ -195,190 +201,190 @@ archer Up
 ![archer-up-jump](sprites/archer/tall/up/jump/archer.gif "archer Up Jump")
 ![archer-up-walk](sprites/archer/tall/up/walk/archer.gif "archer Up Walk")
 
-## Short knight Sprites
+## Short warrior Sprites
 
-knight Back
+warrior Back
 
-![knight-back-attack](sprites/knight/short/back/attack/knight.gif "knight Back Attack")
-![knight-back-damaged](sprites/knight/short/back/damaged/knight.gif "knight Back Damaged")
-![knight-back-dead](sprites/knight/short/back/dead/knight.gif "knight Back Dead")
-![knight-back-idle](sprites/knight/short/back/idle/knight.gif "knight Back Idle")
-![knight-back-jump](sprites/knight/short/back/jump/knight.gif "knight Back Jump")
-![knight-back-walk](sprites/knight/short/back/walk/knight.gif "knight Back Walk")
+![warrior-back-attack](sprites/warrior/short/back/attack/warrior.gif "warrior Back Attack")
+![warrior-back-damaged](sprites/warrior/short/back/damaged/warrior.gif "warrior Back Damaged")
+![warrior-back-dead](sprites/warrior/short/back/dead/warrior.gif "warrior Back Dead")
+![warrior-back-idle](sprites/warrior/short/back/idle/warrior.gif "warrior Back Idle")
+![warrior-back-jump](sprites/warrior/short/back/jump/warrior.gif "warrior Back Jump")
+![warrior-back-walk](sprites/warrior/short/back/walk/warrior.gif "warrior Back Walk")
 
-knight Down
+warrior Down
 
-![knight-down-attack](sprites/knight/short/down/attack/knight.gif "knight Down Attack")
-![knight-down-damaged](sprites/knight/short/down/damaged/knight.gif "knight Down Damaged")
-![knight-down-dead](sprites/knight/short/down/dead/knight.gif "knight Down Dead")
-![knight-down-idle](sprites/knight/short/down/idle/knight.gif "knight Down Idle")
-![knight-down-jump](sprites/knight/short/down/jump/knight.gif "knight Down Jump")
-![knight-down-walk](sprites/knight/short/down/walk/knight.gif "knight Down Walk")
+![warrior-down-attack](sprites/warrior/short/down/attack/warrior.gif "warrior Down Attack")
+![warrior-down-damaged](sprites/warrior/short/down/damaged/warrior.gif "warrior Down Damaged")
+![warrior-down-dead](sprites/warrior/short/down/dead/warrior.gif "warrior Down Dead")
+![warrior-down-idle](sprites/warrior/short/down/idle/warrior.gif "warrior Down Idle")
+![warrior-down-jump](sprites/warrior/short/down/jump/warrior.gif "warrior Down Jump")
+![warrior-down-walk](sprites/warrior/short/down/walk/warrior.gif "warrior Down Walk")
 
-knight Front
+warrior Front
 
-![knight-front-attack](sprites/knight/short/front/attack/knight.gif "knight Front Attack")
-![knight-front-damaged](sprites/knight/short/front/damaged/knight.gif "knight Front Damaged")
-![knight-front-dead](sprites/knight/short/front/dead/knight.gif "knight Front Dead")
-![knight-front-idle](sprites/knight/short/front/idle/knight.gif "knight Front Idle")
-![knight-front-jump](sprites/knight/short/front/jump/knight.gif "knight Front Jump")
-![knight-front-walk](sprites/knight/short/front/walk/knight.gif "knight Front Walk")
+![warrior-front-attack](sprites/warrior/short/front/attack/warrior.gif "warrior Front Attack")
+![warrior-front-damaged](sprites/warrior/short/front/damaged/warrior.gif "warrior Front Damaged")
+![warrior-front-dead](sprites/warrior/short/front/dead/warrior.gif "warrior Front Dead")
+![warrior-front-idle](sprites/warrior/short/front/idle/warrior.gif "warrior Front Idle")
+![warrior-front-jump](sprites/warrior/short/front/jump/warrior.gif "warrior Front Jump")
+![warrior-front-walk](sprites/warrior/short/front/walk/warrior.gif "warrior Front Walk")
 
-knight Side
+warrior Side
 
-![knight-side-attack](sprites/knight/short/side/attack/knight.gif "knight Side Attack")
-![knight-side-damaged](sprites/knight/short/side/damaged/knight.gif "knight Side Damaged")
-![knight-side-dead](sprites/knight/short/side/dead/knight.gif "knight Side Dead")
-![knight-side-idle](sprites/knight/short/side/idle/knight.gif "knight Side Idle")
-![knight-side-jump](sprites/knight/short/side/jump/knight.gif "knight Side Jump")
-![knight-side-walk](sprites/knight/short/side/walk/knight.gif "knight Side Walk")
+![warrior-side-attack](sprites/warrior/short/side/attack/warrior.gif "warrior Side Attack")
+![warrior-side-damaged](sprites/warrior/short/side/damaged/warrior.gif "warrior Side Damaged")
+![warrior-side-dead](sprites/warrior/short/side/dead/warrior.gif "warrior Side Dead")
+![warrior-side-idle](sprites/warrior/short/side/idle/warrior.gif "warrior Side Idle")
+![warrior-side-jump](sprites/warrior/short/side/jump/warrior.gif "warrior Side Jump")
+![warrior-side-walk](sprites/warrior/short/side/walk/warrior.gif "warrior Side Walk")
 
-knight Up
+warrior Up
 
-![knight-up-attack](sprites/knight/short/up/attack/knight.gif "knight Up Attack")
-![knight-up-damaged](sprites/knight/short/up/damaged/knight.gif "knight Up Damaged")
-![knight-up-dead](sprites/knight/short/up/dead/knight.gif "knight Up Dead")
-![knight-up-idle](sprites/knight/short/up/idle/knight.gif "knight Up Idle")
-![knight-up-jump](sprites/knight/short/up/jump/knight.gif "knight Up Jump")
-![knight-up-walk](sprites/knight/short/up/walk/knight.gif "knight Up Walk")
+![warrior-up-attack](sprites/warrior/short/up/attack/warrior.gif "warrior Up Attack")
+![warrior-up-damaged](sprites/warrior/short/up/damaged/warrior.gif "warrior Up Damaged")
+![warrior-up-dead](sprites/warrior/short/up/dead/warrior.gif "warrior Up Dead")
+![warrior-up-idle](sprites/warrior/short/up/idle/warrior.gif "warrior Up Idle")
+![warrior-up-jump](sprites/warrior/short/up/jump/warrior.gif "warrior Up Jump")
+![warrior-up-walk](sprites/warrior/short/up/walk/warrior.gif "warrior Up Walk")
 
-## tall knight Sprites
+## tall warrior Sprites
 
-knight Back
+warrior Back
 
-![knight-back-attack](sprites/knight/tall/back/attack/knight.gif "knight Back Attack")
-![knight-back-damaged](sprites/knight/tall/back/damaged/knight.gif "knight Back Damaged")
-![knight-back-dead](sprites/knight/tall/back/dead/knight.gif "knight Back Dead")
-![knight-back-idle](sprites/knight/tall/back/idle/knight.gif "knight Back Idle")
-![knight-back-jump](sprites/knight/tall/back/jump/knight.gif "knight Back Jump")
-![knight-back-walk](sprites/knight/tall/back/walk/knight.gif "knight Back Walk")
+![warrior-back-attack](sprites/warrior/tall/back/attack/warrior.gif "warrior Back Attack")
+![warrior-back-damaged](sprites/warrior/tall/back/damaged/warrior.gif "warrior Back Damaged")
+![warrior-back-dead](sprites/warrior/tall/back/dead/warrior.gif "warrior Back Dead")
+![warrior-back-idle](sprites/warrior/tall/back/idle/warrior.gif "warrior Back Idle")
+![warrior-back-jump](sprites/warrior/tall/back/jump/warrior.gif "warrior Back Jump")
+![warrior-back-walk](sprites/warrior/tall/back/walk/warrior.gif "warrior Back Walk")
 
-knight Down
+warrior Down
 
-![knight-down-attack](sprites/knight/tall/down/attack/knight.gif "knight Down Attack")
-![knight-down-damaged](sprites/knight/tall/down/damaged/knight.gif "knight Down Damaged")
-![knight-down-dead](sprites/knight/tall/down/dead/knight.gif "knight Down Dead")
-![knight-down-idle](sprites/knight/tall/down/idle/knight.gif "knight Down Idle")
-![knight-down-jump](sprites/knight/tall/down/jump/knight.gif "knight Down Jump")
-![knight-down-walk](sprites/knight/tall/down/walk/knight.gif "knight Down Walk")
+![warrior-down-attack](sprites/warrior/tall/down/attack/warrior.gif "warrior Down Attack")
+![warrior-down-damaged](sprites/warrior/tall/down/damaged/warrior.gif "warrior Down Damaged")
+![warrior-down-dead](sprites/warrior/tall/down/dead/warrior.gif "warrior Down Dead")
+![warrior-down-idle](sprites/warrior/tall/down/idle/warrior.gif "warrior Down Idle")
+![warrior-down-jump](sprites/warrior/tall/down/jump/warrior.gif "warrior Down Jump")
+![warrior-down-walk](sprites/warrior/tall/down/walk/warrior.gif "warrior Down Walk")
 
-knight Front
+warrior Front
 
-![knight-front-attack](sprites/knight/tall/front/attack/knight.gif "knight Front Attack")
-![knight-front-damaged](sprites/knight/tall/front/damaged/knight.gif "knight Front Damaged")
-![knight-front-dead](sprites/knight/tall/front/dead/knight.gif "knight Front Dead")
-![knight-front-idle](sprites/knight/tall/front/idle/knight.gif "knight Front Idle")
-![knight-front-jump](sprites/knight/tall/front/jump/knight.gif "knight Front Jump")
-![knight-front-walk](sprites/knight/tall/front/walk/knight.gif "knight Front Walk")
+![warrior-front-attack](sprites/warrior/tall/front/attack/warrior.gif "warrior Front Attack")
+![warrior-front-damaged](sprites/warrior/tall/front/damaged/warrior.gif "warrior Front Damaged")
+![warrior-front-dead](sprites/warrior/tall/front/dead/warrior.gif "warrior Front Dead")
+![warrior-front-idle](sprites/warrior/tall/front/idle/warrior.gif "warrior Front Idle")
+![warrior-front-jump](sprites/warrior/tall/front/jump/warrior.gif "warrior Front Jump")
+![warrior-front-walk](sprites/warrior/tall/front/walk/warrior.gif "warrior Front Walk")
 
-knight Side
+warrior Side
 
-![knight-side-attack](sprites/knight/tall/side/attack/knight.gif "knight Side Attack")
-![knight-side-damaged](sprites/knight/tall/side/damaged/knight.gif "knight Side Damaged")
-![knight-side-dead](sprites/knight/tall/side/dead/knight.gif "knight Side Dead")
-![knight-side-idle](sprites/knight/tall/side/idle/knight.gif "knight Side Idle")
-![knight-side-jump](sprites/knight/tall/side/jump/knight.gif "knight Side Jump")
-![knight-side-walk](sprites/knight/tall/side/walk/knight.gif "knight Side Walk")
+![warrior-side-attack](sprites/warrior/tall/side/attack/warrior.gif "warrior Side Attack")
+![warrior-side-damaged](sprites/warrior/tall/side/damaged/warrior.gif "warrior Side Damaged")
+![warrior-side-dead](sprites/warrior/tall/side/dead/warrior.gif "warrior Side Dead")
+![warrior-side-idle](sprites/warrior/tall/side/idle/warrior.gif "warrior Side Idle")
+![warrior-side-jump](sprites/warrior/tall/side/jump/warrior.gif "warrior Side Jump")
+![warrior-side-walk](sprites/warrior/tall/side/walk/warrior.gif "warrior Side Walk")
 
-knight Up
+warrior Up
 
-![knight-up-attack](sprites/knight/tall/up/attack/knight.gif "knight Up Attack")
-![knight-up-damaged](sprites/knight/tall/up/damaged/knight.gif "knight Up Damaged")
-![knight-up-dead](sprites/knight/tall/up/dead/knight.gif "knight Up Dead")
-![knight-up-idle](sprites/knight/tall/up/idle/knight.gif "knight Up Idle")
-![knight-up-jump](sprites/knight/tall/up/jump/knight.gif "knight Up Jump")
-![knight-up-walk](sprites/knight/tall/up/walk/knight.gif "knight Up Walk")
+![warrior-up-attack](sprites/warrior/tall/up/attack/warrior.gif "warrior Up Attack")
+![warrior-up-damaged](sprites/warrior/tall/up/damaged/warrior.gif "warrior Up Damaged")
+![warrior-up-dead](sprites/warrior/tall/up/dead/warrior.gif "warrior Up Dead")
+![warrior-up-idle](sprites/warrior/tall/up/idle/warrior.gif "warrior Up Idle")
+![warrior-up-jump](sprites/warrior/tall/up/jump/warrior.gif "warrior Up Jump")
+![warrior-up-walk](sprites/warrior/tall/up/walk/warrior.gif "warrior Up Walk")
 
-## Short witch Sprites
+## Short mage Sprites
 
-witch Back
+mage Back
 
-![witch-back-attack](sprites/witch/short/back/attack/witch.gif "witch Back Attack")
-![witch-back-damaged](sprites/witch/short/back/damaged/witch.gif "witch Back Damaged")
-![witch-back-dead](sprites/witch/short/back/dead/witch.gif "witch Back Dead")
-![witch-back-idle](sprites/witch/short/back/idle/witch.gif "witch Back Idle")
-![witch-back-jump](sprites/witch/short/back/jump/witch.gif "witch Back Jump")
-![witch-back-walk](sprites/witch/short/back/walk/witch.gif "witch Back Walk")
+![mage-back-attack](sprites/mage/short/back/attack/mage.gif "mage Back Attack")
+![mage-back-damaged](sprites/mage/short/back/damaged/mage.gif "mage Back Damaged")
+![mage-back-dead](sprites/mage/short/back/dead/mage.gif "mage Back Dead")
+![mage-back-idle](sprites/mage/short/back/idle/mage.gif "mage Back Idle")
+![mage-back-jump](sprites/mage/short/back/jump/mage.gif "mage Back Jump")
+![mage-back-walk](sprites/mage/short/back/walk/mage.gif "mage Back Walk")
 
-witch Down
+mage Down
 
-![witch-down-attack](sprites/witch/short/down/attack/witch.gif "witch Down Attack")
-![witch-down-damaged](sprites/witch/short/down/damaged/witch.gif "witch Down Damaged")
-![witch-down-dead](sprites/witch/short/down/dead/witch.gif "witch Down Dead")
-![witch-down-idle](sprites/witch/short/down/idle/witch.gif "witch Down Idle")
-![witch-down-jump](sprites/witch/short/down/jump/witch.gif "witch Down Jump")
-![witch-down-walk](sprites/witch/short/down/walk/witch.gif "witch Down Walk")
+![mage-down-attack](sprites/mage/short/down/attack/mage.gif "mage Down Attack")
+![mage-down-damaged](sprites/mage/short/down/damaged/mage.gif "mage Down Damaged")
+![mage-down-dead](sprites/mage/short/down/dead/mage.gif "mage Down Dead")
+![mage-down-idle](sprites/mage/short/down/idle/mage.gif "mage Down Idle")
+![mage-down-jump](sprites/mage/short/down/jump/mage.gif "mage Down Jump")
+![mage-down-walk](sprites/mage/short/down/walk/mage.gif "mage Down Walk")
 
-witch Front
+mage Front
 
-![witch-front-attack](sprites/witch/short/front/attack/witch.gif "witch Front Attack")
-![witch-front-damaged](sprites/witch/short/front/damaged/witch.gif "witch Front Damaged")
-![witch-front-dead](sprites/witch/short/front/dead/witch.gif "witch Front Dead")
-![witch-front-idle](sprites/witch/short/front/idle/witch.gif "witch Front Idle")
-![witch-front-jump](sprites/witch/short/front/jump/witch.gif "witch Front Jump")
-![witch-front-walk](sprites/witch/short/front/walk/witch.gif "witch Front Walk")
+![mage-front-attack](sprites/mage/short/front/attack/mage.gif "mage Front Attack")
+![mage-front-damaged](sprites/mage/short/front/damaged/mage.gif "mage Front Damaged")
+![mage-front-dead](sprites/mage/short/front/dead/mage.gif "mage Front Dead")
+![mage-front-idle](sprites/mage/short/front/idle/mage.gif "mage Front Idle")
+![mage-front-jump](sprites/mage/short/front/jump/mage.gif "mage Front Jump")
+![mage-front-walk](sprites/mage/short/front/walk/mage.gif "mage Front Walk")
 
-witch Side
+mage Side
 
-![witch-side-attack](sprites/witch/short/side/attack/witch.gif "witch Side Attack")
-![witch-side-damaged](sprites/witch/short/side/damaged/witch.gif "witch Side Damaged")
-![witch-side-dead](sprites/witch/short/side/dead/witch.gif "witch Side Dead")
-![witch-side-idle](sprites/witch/short/side/idle/witch.gif "witch Side Idle")
-![witch-side-jump](sprites/witch/short/side/jump/witch.gif "witch Side Jump")
-![witch-side-walk](sprites/witch/short/side/walk/witch.gif "witch Side Walk")
+![mage-side-attack](sprites/mage/short/side/attack/mage.gif "mage Side Attack")
+![mage-side-damaged](sprites/mage/short/side/damaged/mage.gif "mage Side Damaged")
+![mage-side-dead](sprites/mage/short/side/dead/mage.gif "mage Side Dead")
+![mage-side-idle](sprites/mage/short/side/idle/mage.gif "mage Side Idle")
+![mage-side-jump](sprites/mage/short/side/jump/mage.gif "mage Side Jump")
+![mage-side-walk](sprites/mage/short/side/walk/mage.gif "mage Side Walk")
 
-witch Up
+mage Up
 
-![witch-up-attack](sprites/witch/short/up/attack/witch.gif "witch Up Attack")
-![witch-up-damaged](sprites/witch/short/up/damaged/witch.gif "witch Up Damaged")
-![witch-up-dead](sprites/witch/short/up/dead/witch.gif "witch Up Dead")
-![witch-up-idle](sprites/witch/short/up/idle/witch.gif "witch Up Idle")
-![witch-up-jump](sprites/witch/short/up/jump/witch.gif "witch Up Jump")
-![witch-up-walk](sprites/witch/short/up/walk/witch.gif "witch Up Walk")
+![mage-up-attack](sprites/mage/short/up/attack/mage.gif "mage Up Attack")
+![mage-up-damaged](sprites/mage/short/up/damaged/mage.gif "mage Up Damaged")
+![mage-up-dead](sprites/mage/short/up/dead/mage.gif "mage Up Dead")
+![mage-up-idle](sprites/mage/short/up/idle/mage.gif "mage Up Idle")
+![mage-up-jump](sprites/mage/short/up/jump/mage.gif "mage Up Jump")
+![mage-up-walk](sprites/mage/short/up/walk/mage.gif "mage Up Walk")
 
-## tall witch Sprites
+## tall mage Sprites
 
-witch Back
+mage Back
 
-![witch-back-attack](sprites/witch/tall/back/attack/witch.gif "witch Back Attack")
-![witch-back-damaged](sprites/witch/tall/back/damaged/witch.gif "witch Back Damaged")
-![witch-back-dead](sprites/witch/tall/back/dead/witch.gif "witch Back Dead")
-![witch-back-idle](sprites/witch/tall/back/idle/witch.gif "witch Back Idle")
-![witch-back-jump](sprites/witch/tall/back/jump/witch.gif "witch Back Jump")
-![witch-back-walk](sprites/witch/tall/back/walk/witch.gif "witch Back Walk")
+![mage-back-attack](sprites/mage/tall/back/attack/mage.gif "mage Back Attack")
+![mage-back-damaged](sprites/mage/tall/back/damaged/mage.gif "mage Back Damaged")
+![mage-back-dead](sprites/mage/tall/back/dead/mage.gif "mage Back Dead")
+![mage-back-idle](sprites/mage/tall/back/idle/mage.gif "mage Back Idle")
+![mage-back-jump](sprites/mage/tall/back/jump/mage.gif "mage Back Jump")
+![mage-back-walk](sprites/mage/tall/back/walk/mage.gif "mage Back Walk")
 
-witch Down
+mage Down
 
-![witch-down-attack](sprites/witch/tall/down/attack/witch.gif "witch Down Attack")
-![witch-down-damaged](sprites/witch/tall/down/damaged/witch.gif "witch Down Damaged")
-![witch-down-dead](sprites/witch/tall/down/dead/witch.gif "witch Down Dead")
-![witch-down-idle](sprites/witch/tall/down/idle/witch.gif "witch Down Idle")
-![witch-down-jump](sprites/witch/tall/down/jump/witch.gif "witch Down Jump")
-![witch-down-walk](sprites/witch/tall/down/walk/witch.gif "witch Down Walk")
+![mage-down-attack](sprites/mage/tall/down/attack/mage.gif "mage Down Attack")
+![mage-down-damaged](sprites/mage/tall/down/damaged/mage.gif "mage Down Damaged")
+![mage-down-dead](sprites/mage/tall/down/dead/mage.gif "mage Down Dead")
+![mage-down-idle](sprites/mage/tall/down/idle/mage.gif "mage Down Idle")
+![mage-down-jump](sprites/mage/tall/down/jump/mage.gif "mage Down Jump")
+![mage-down-walk](sprites/mage/tall/down/walk/mage.gif "mage Down Walk")
 
-witch Front
+mage Front
 
-![witch-front-attack](sprites/witch/tall/front/attack/witch.gif "witch Front Attack")
-![witch-front-damaged](sprites/witch/tall/front/damaged/witch.gif "witch Front Damaged")
-![witch-front-dead](sprites/witch/tall/front/dead/witch.gif "witch Front Dead")
-![witch-front-idle](sprites/witch/tall/front/idle/witch.gif "witch Front Idle")
-![witch-front-jump](sprites/witch/tall/front/jump/witch.gif "witch Front Jump")
-![witch-front-walk](sprites/witch/tall/front/walk/witch.gif "witch Front Walk")
+![mage-front-attack](sprites/mage/tall/front/attack/mage.gif "mage Front Attack")
+![mage-front-damaged](sprites/mage/tall/front/damaged/mage.gif "mage Front Damaged")
+![mage-front-dead](sprites/mage/tall/front/dead/mage.gif "mage Front Dead")
+![mage-front-idle](sprites/mage/tall/front/idle/mage.gif "mage Front Idle")
+![mage-front-jump](sprites/mage/tall/front/jump/mage.gif "mage Front Jump")
+![mage-front-walk](sprites/mage/tall/front/walk/mage.gif "mage Front Walk")
 
-witch Side
+mage Side
 
-![witch-side-attack](sprites/witch/tall/side/attack/witch.gif "witch Side Attack")
-![witch-side-damaged](sprites/witch/tall/side/damaged/witch.gif "witch Side Damaged")
-![witch-side-dead](sprites/witch/tall/side/dead/witch.gif "witch Side Dead")
-![witch-side-idle](sprites/witch/tall/side/idle/witch.gif "witch Side Idle")
-![witch-side-jump](sprites/witch/tall/side/jump/witch.gif "witch Side Jump")
-![witch-side-walk](sprites/witch/tall/side/walk/witch.gif "witch Side Walk")
+![mage-side-attack](sprites/mage/tall/side/attack/mage.gif "mage Side Attack")
+![mage-side-damaged](sprites/mage/tall/side/damaged/mage.gif "mage Side Damaged")
+![mage-side-dead](sprites/mage/tall/side/dead/mage.gif "mage Side Dead")
+![mage-side-idle](sprites/mage/tall/side/idle/mage.gif "mage Side Idle")
+![mage-side-jump](sprites/mage/tall/side/jump/mage.gif "mage Side Jump")
+![mage-side-walk](sprites/mage/tall/side/walk/mage.gif "mage Side Walk")
 
-witch Up
+mage Up
 
-![witch-up-attack](sprites/witch/tall/up/attack/witch.gif "witch Up Attack")
-![witch-up-damaged](sprites/witch/tall/up/damaged/witch.gif "witch Up Damaged")
-![witch-up-dead](sprites/witch/tall/up/dead/witch.gif "witch Up Dead")
-![witch-up-idle](sprites/witch/tall/up/idle/witch.gif "witch Up Idle")
-![witch-up-jump](sprites/witch/tall/up/jump/witch.gif "witch Up Jump")
-![witch-up-walk](sprites/witch/tall/up/walk/witch.gif "witch Up Walk")
+![mage-up-attack](sprites/mage/tall/up/attack/mage.gif "mage Up Attack")
+![mage-up-damaged](sprites/mage/tall/up/damaged/mage.gif "mage Up Damaged")
+![mage-up-dead](sprites/mage/tall/up/dead/mage.gif "mage Up Dead")
+![mage-up-idle](sprites/mage/tall/up/idle/mage.gif "mage Up Idle")
+![mage-up-jump](sprites/mage/tall/up/jump/mage.gif "mage Up Jump")
+![mage-up-walk](sprites/mage/tall/up/walk/mage.gif "mage Up Walk")
