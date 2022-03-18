@@ -1,14 +1,14 @@
 # Sprites
 
 ## Table of Contents  
-[short novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-novice-sprites) 
-[tall novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-novice-sprites) 
-[short archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-archer-sprites)
-[tall archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-archer-sprites) 
-[short warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-warrior-sprites) 
-[tall warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-warrior-sprites) 
-[short mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-mage-sprites) 
-[tall mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-mage-sprites) 
+ o [short novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-novice-sprites) <br>
+ o [tall novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-novice-sprites)  <br>
+ o [short archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-archer-sprites) <br>
+ o [tall archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-archer-sprites) <br>
+ o [short warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-warrior-sprites) <br> 
+ o [tall warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-warrior-sprites) <br>
+ o [short mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-mage-sprites) <br>
+ o [tall mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-mage-sprites) <br>
 
 ## Short novice Sprites
 
