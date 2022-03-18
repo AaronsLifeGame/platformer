@@ -1,17 +1,14 @@
 # Sprites
 
-##### Table of Contents  
-[Short Novice](#short novice) 
-[Tall Novice](#tall novice) 
-[Short Archer](#short archer)
-[Tall Archer](#tall archer) 
-[Short Warrior](#short warrior) 
-[Tall Warrior](#tall warrior) 
-[Short Mage](#short mage) 
-[Tall Mage](#tall mage) 
-...snip...    
-<a name="headers"/>
-## Headers
+## Table of Contents  
+[short novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-novice-sprites) 
+[tall novice sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-novice-sprites) 
+[short archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-archer-sprites)
+[tall archer sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-archer-sprites) 
+[short warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-warrior-sprites) 
+[tall warrior sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-warrior-sprites) 
+[short mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#short-mage-sprites) 
+[tall mage sprites](https://github.com/AaronsLifeGame/platformer/blob/main/artwork/WATCHME.md#tall-mage-sprites) 
 
 ## Short novice Sprites
 
